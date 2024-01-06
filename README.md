@@ -24,9 +24,13 @@ The Currency Converter App allows users to perform real-time currency conversion
 
 ### Installation
 
-1. Download and install the Currency Converter App on your mobile device.
+1. Clone the repository to your local machine:
 
-2. Open the app and explore the user-friendly interface.
+git clone https://github.com/galist1304/Currency-Conversion-App.git
+
+2. Open the project in Android Studio.
+
+3. Build and run the app on your device or emulator.
 
 ### Usage
 
