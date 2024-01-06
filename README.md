@@ -46,7 +46,7 @@ The Currency Converter App allows users to perform real-time currency conversion
 ## Technologies Used
 
 - Android Studio
-- Java/Kotlin
+- Java
 - Exchange Rate API
 
 ## Contributing
