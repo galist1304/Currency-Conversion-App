@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string-array name="currency_options">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>ILS</item>
+        <item>RUB</item>
+    </string-array>
+</resources>
