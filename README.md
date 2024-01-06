@@ -26,7 +26,7 @@ The Currency Converter App allows users to perform real-time currency conversion
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/galist1304/Currency-Conversion-App.git
+   git clone https://github.com/galist1304/Currency-Conversion-App.git
 
 2. Open the project in Android Studio.
 
